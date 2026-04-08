@@ -1,0 +1,7 @@
+name: NeonTPA
+version: ${version}
+main: me.neonjava.neontpa.NeonTPA
+api-version: '1.21'
+author: NeonJava
+description: Modern TPA plugin with Dialog API support.
+bootstrapper: me.neonjava.neontpa.Bootstrapper
